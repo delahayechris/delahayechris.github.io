@@ -1,3 +1,5 @@
----
-title: Titre de mon site sur le yml
----
+title: Mon site
+titlecct: Contact
+titleport: Portfolio
+author: Christophe Delahaye
+desc: Site en Jekyll
